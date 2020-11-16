@@ -1,0 +1,31 @@
+DATA VISUALIZATION : - The use of computer-supported, interactive, visual representations of. abstract data in order to amplify cognition” by (Card, Mackinlay, & Shneiderman, 1999)
+                       Data visualization is the graphical representation of information and data. 
+Why Data Visualization :- Generally we do it to because our mind reads better with patterns and figures instead of numbers. 
+
+Abelas Chart : - Dr. Andrew Abela published a good Diagram helping to decide about which chart are a better fit for a given data and problem at hand. 
+                 They devide problem on the basis of 4 scenarios  ( See image for complete bifurcation )  :-
+                 i) Comparison ii) Composition iii) Relationship iv) Distribution.
+                 
+                *Variables are columns or different factors we are measuring* 
+        
+        Comparison: - It is used to evaluate and compare values between two or more data points. Data point is one item for eg a product of particular brand. 
+                      This if further devided into:-
+                      i) Among Time    ii) Over Time 
+                      There is further more bifurcation see diagram of abelas chart.
+                      For the comparison we can use - Variable with column chart , Table with embeded chart , Bar chart (for many items) , column chart(for few items) , circular area chart , line chart.
+        
+        Composition: - The idea is to show how individual parts make up the whole by combining them together and displaying them as a sum
+                      Basically it means combining the whole data. 
+                      It can be devided as i)Static , ii)Dynamic (changing over time)
+                      For STATIC we can use :- Pie Chart (Simple share of total) , Waterfall chart (  accumulation or subtraction of total) , Stacked 100% column chart with sub component ( components of components )
+                      For dynamic we can use :- 
+                      
+                      *Learn further by doing *
+
+Principles of Data Visualization :- 1) Use title and labels in chart
+                                    2) Each chart should convey one message
+                                    3) Use color sesible.
+                                    4) Remove redundant information from chart
+                                    5) Info should be legible
+                                    6) Do not use more then 4-5 categories for pie chart
+                                    7) Consistency with scaling ( dividing the large period into few like 10 years into 5 groups of 2 years representing 1point as 2 years ) is important.
