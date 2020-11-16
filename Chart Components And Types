@@ -1,0 +1,14 @@
+CHART COMPONENTS - 
+       1) Title -> To give breif what chart show
+       2) Chart Area -> Area of whole chart along with axis and titles
+       3) Plot Area -> Area by removing chart title and both the axis i.e the area in which only representation with data points( values ) is shown.
+       4) Axis -> To give name what horizontal and vertical axis are representing
+       5) Data Point -> The point till when a graph is showing for a particular factor.
+       6) Data Label/value -> The exact value of the factor (variable) i.e. the value of data point.
+       7) Legends -> What is the data value depecting like count of crime 
+
+TYPES OF CHART -
+       1)Column Chart -> Normal chart representing one metric like count .
+       2) Combo Chart -> Representing two or more metrics like count of commited crime and arrests. 
+       3) Stack Column Chart -> Used when we have to compare between two things. It is like bar chart with al height equal.
+       4) Heat Map Chart -> When we want to distinguish data with color like values greater than 1k are in red and so on... ( Used in tabular data ).
