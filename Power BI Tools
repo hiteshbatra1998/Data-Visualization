@@ -1,0 +1,24 @@
+File is saved with extension .pbix
+
+Navigation menu have 4 tabs - 
+         i)Home ii)Insert iii)Modeling iv)View  
+         ( There are two more of help and file ) 
+         
+         Home -> We can get Data from various sources like excel  sql servers and many more databases or pdf etc , we can also Transform data
+                 We have option of getting data from recent souces ( where you have accesed data previously )
+                 We have power query. Which can be helpful changing the data which is obtained from the source. Changing data means adding any row or changing data type of any existing column.
+                 We have visuals option. Where we can get a blank graph.
+                 
+         Insert-> We can add new page just like excel sheet.
+                  We can add buttons shape textbox.
+                  We can add decomposition tree. It is just like a field which is devided into other fields.
+                  We can have key incluencer in power BI like what is Key performance indicator (KPI) for a particular dashboard
+                  
+        View -> We can change layout like mobile or dekstop.
+        
+        Modelling -> We can play with the data inserted. Many options in this menu only become enable when we have data in power BI.
+        
+On LHS we have 3 options:
+       i) Reports -> Where we can have our dashboard
+       ii) Data -> Where the inserted data is shown.
+       iii) Model -> Where we can build relationship diagrams.
