@@ -22,3 +22,7 @@ On LHS we have 3 options:
        i) Reports -> Where we can have our dashboard
        ii) Data -> Where the inserted data is shown.
        iii) Model -> Where we can build relationship diagrams.
+      
+To Get Cound of a particular row -> Select that row , Select Card from visualization , Select Value from move option under that row in Axis option.
+We can play with the format option of every graph having various options like data label , color, axis etc.  
+We can add Image at the back of graph under plot area option in format.
